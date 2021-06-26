@@ -35,5 +35,4 @@ defmodule WabanexWeb.Schema.Types.Root do
       middleware TranslateErrors
     end
   end
-
 end
